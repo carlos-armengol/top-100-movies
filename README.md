@@ -1,4 +1,4 @@
-# 07-journal-app
+# top-100-movies
 
 ## Project setup
 ```
